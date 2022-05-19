@@ -5,4 +5,5 @@ green
 blue
 purple
 black
+unicorns
 These are the colors of the rainbow
